@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hola_JAR_EXE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hola_JAR_EXE_jar</output-path>
+    <root id="archive" name="Hola_JAR_EXE.jar">
+      <element id="module-output" name="Hola_JAR_EXE" />
+    </root>
+  </artifact>
+</component>
